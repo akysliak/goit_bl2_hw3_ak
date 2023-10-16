@@ -4,6 +4,9 @@ Threads added to:
     - process_dir()
 
 NB about functionality:
+
+- To exit the program, type "*exit" whenever you are asked for an input.
+
 - This script unpacks archives but does not apply the function normilize() to their content and does not delete
 empty folders within archives. Only the names of the archives get normalized.
 
